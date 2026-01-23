@@ -75,7 +75,7 @@ Cukup kirim pesan biasa → bot akan otomatis menjawab!
 
 **Contoh:**
 ```
-Kamu: Siapa nama ibukota Indonesia?
+Kamu: Apa nama ibukota Indonesia?
 Bot: Ibukota Indonesia adalah Jakarta...
 ```
 
