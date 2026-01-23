@@ -125,22 +125,16 @@ python class_bot.py
 
 ---
 
-## 🎉 Ringkasan
+## 🎉 Kesimpulan
 
 Bot Discord ini adalah:
 - ✨ Teman chat yang cerdas & ramah
 - 🤖 Bisa kenali gambar & hitung barang
 - 🎮 Bisa bermain game & hiburan
 - 📝 Bisa simpan catatan & kelola file
-- ⚡ Cepat & responsif
+- ⚡ AI bot cepat & responsif menggunakan fitur streaming dengan cara multi edit chat sehingga hasilnya seperti chat gpt
 
 **Sudah siap pakai! Ketik `+info` untuk lihat SEMUA perintah!** 🚀
 
 ---
 
-## 📖 Update Terbaru
-
-✨ Ollama AI dengan chat interaktif
-🌐 Bahasa Indonesia
-📖 Mudah dipakai
-🎯 Seru & berguna!
