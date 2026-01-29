@@ -61,7 +61,27 @@ Bot bisa jadi buku catatan!
 +pw  (membuat password acak yang aman)
 ```
 
-### 9. ℹ️ **Bantuan**
+### 9. 🌐 **Terjemahkan Teks**
+Bot bisa menerjemahkan teks ke berbagai bahasa! Bahasa sumber dideteksi otomatis oleh AI.
+```
++translate <bahasa_target> <teks>
+```
+
+**Contoh penggunaan:**
+```
++translate Indonesia "Good morning"
++translate Inggris "Selamat pagi"
++translate Jepang "Bagaimana kabar Anda?"
++translate Spanyol "Terima kasih banyak"
++translate Mandarin "Saya suka belajar"
+```
+
+Fitur ini menggunakan **Ollama AI** untuk:
+- 🔍 Mendeteksi otomatis bahasa sumber
+- ✨ Menerjemahkan ke bahasa target pilihan kalian
+- 📝 Hasil terjemahan yang akurat & natural
+
+### 10. ℹ️ **Bantuan**
 ```
 +info  (lihat SEMUA perintah & penjelasannya!)
 ```
@@ -75,7 +95,7 @@ Cukup kirim pesan biasa → bot akan otomatis menjawab!
 
 **Contoh:**
 ```
-Kamu: Apa nama ibukota Indonesia?
+Kamu: Siapa nama ibukota Indonesia?
 Bot: Ibukota Indonesia adalah Jakarta...
 ```
 
@@ -125,16 +145,15 @@ python class_bot.py
 
 ---
 
-## 🎉 Kesimpulan
+## 🎉 Ringkasan
 
 Bot Discord ini adalah:
 - ✨ Teman chat yang cerdas & ramah
 - 🤖 Bisa kenali gambar & hitung barang
 - 🎮 Bisa bermain game & hiburan
 - 📝 Bisa simpan catatan & kelola file
-- ⚡ AI bot cepat & responsif menggunakan fitur streaming dengan cara multi edit chat sehingga hasilnya seperti chat gpt
+- ⚡ Cepat & responsif
 
 **Sudah siap pakai! Ketik `+info` untuk lihat SEMUA perintah!** 🚀
 
----
 
