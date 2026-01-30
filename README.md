@@ -152,7 +152,8 @@ Bot Discord ini adalah:
 - 🤖 Bisa kenali gambar & hitung barang
 - 🎮 Bisa bermain game & hiburan
 - 📝 Bisa simpan catatan & kelola file
-- ⚡ Cepat & responsif
+- 📝 Bisa terjemahkan bahasa dan perintah lain
+- ⚡ Menjawab cepat & responsif
 
 **Sudah siap pakai! Ketik `+info` untuk lihat SEMUA perintah!** 🚀
 
